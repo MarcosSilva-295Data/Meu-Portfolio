@@ -15,7 +15,8 @@ Desenvolver um dashboard para monitoramento de solicitações internas, com foco
 - DAX
 
 ## Visual do Dashboard
-![Dashboard](Imagens/Visao_geral_dashboard.png)
+![Dashboard](Imagens/Visão_Geral_Atendidas.png)
+
 
 ## Observação
 Os dados utilizados neste projeto são fictícios, simulando um ambiente corporativo real.
