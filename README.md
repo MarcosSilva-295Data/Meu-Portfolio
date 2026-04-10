@@ -1,2 +1,2 @@
 # Meu-Portfolio
-Portifólio de dashboards e projetos de análise de dados.
+Portifólio de dashboards desenvolvidos no Power BI e projetos de análise de dados.
